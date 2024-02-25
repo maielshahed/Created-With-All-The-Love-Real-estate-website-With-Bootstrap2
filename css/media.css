@@ -1,0 +1,49 @@
+@media(max-width:767px){
+.text-center-xs{
+    text-align: center;
+}
+.margin-auto{
+    margin: auto;
+}
+
+.header .spac:after{
+  top: 70px;
+  left: 140px;
+}
+
+.header button{
+    display: block;
+}
+
+.content-list,.tabs .ection,.customer .odio{
+    margin-top: 30px;
+}
+
+
+.sip .mars,.quis button,.header form {
+    margin-bottom: 30px;
+}
+
+
+}
+
+@media(min-width:768px){
+    .header .spac:after{
+        display: none;
+      }
+
+      .tabs .ection{
+          margin-top: 30px;
+      }
+}
+
+@media(min-width:992px){
+    .header .spac:after{
+        display: block;
+      }
+}
+
+
+@media(min-width:1200px){
+    
+}
